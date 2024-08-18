@@ -35,10 +35,10 @@
 .test{
   z-index: 1000;
   position: absolute;
-  bottom: 50px;
-  right: 80px;  
-  padding: 16px 22px;
-  font-size: 40px;
+  top: 0;
+  left: 0; 
+  width: 107px;
+  height: 128px;   
   color: white;
   background-color: black;
 }
